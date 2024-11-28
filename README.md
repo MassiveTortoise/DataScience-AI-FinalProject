@@ -4,7 +4,7 @@ Project: Toxic Detector
 
 Description: This model we used is a fine-tuned version of the DistilBERT model to classify toxic comments.
 
-This model is intended to be used for classifying toxic online classifications. However, one limitation of the model is that it performs poorly for some comments that mention a specific identity subgroup, like Muslims. The following table shows an evaluation score for different identity groups. You can learn the specific meaning of these metrics here. Those metrics show how well a model performs for a specific group. The larger the number, the better.
+This model is intended to be used for classifying toxic online classifications. However, one limitation of the model is that it performs poorly for some comments that mention a specific identity subgroup, like Muslims for example. More information on that is on the Huggingface website to the model.
 
 
 
