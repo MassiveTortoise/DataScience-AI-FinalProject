@@ -13,3 +13,5 @@ We used the following Dataset: [datasets/SetFit/toxic_conversations_50k](https:/
 Link to Model we used: [martin-ha/toxic-comment-model](https://huggingface.co/martin-ha/toxic-comment-model)
 
 Link to the Presentation Slides: [canva.com](https://www.canva.com/design/DAGWysa7YRg/svtNbFvotFFNE0C5zNDxwA/view?utm_content=DAGWysa7YRg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+We used a pretrained model and manage to yield over 90% accuracy 
